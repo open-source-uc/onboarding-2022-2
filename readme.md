@@ -1,7 +1,9 @@
 # OnBoarding 2022-2 🚀
 
 ## Desafios cursed
-*Nombre archivo:* {usuario}-{letra desafío}.{extensión}
+Tendran que subirlo en la carpeta `desafio`
+
+**Nombre archivo:** {usuario}-{letra desafío}.{extensión}
 
 * Desafío A: Hacer la suma más difícil
 * Desafío B: Utilizar la mayor cantidad de métodos distintos en una sola línea (Pueden escribir máximo 10 líneas, donde solo 1 es la válida)(Bonus: que sea funcional)

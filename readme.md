@@ -1,7 +1,7 @@
 # OnBoarding 2022-2 🚀
 
 ## Desafios cursed
-Tendran que subirlo en la carpeta `desafio`
+Tendrán que subirlo en la carpeta `desafio`
 
 **Nombre archivo:** {usuario}-{letra desafío}.{extensión}
 
@@ -17,3 +17,5 @@ Ej: `"".strip().lsplit().rsplit().replace("A").replace("BBBB")`
 Agrega tu usuario de GitHub o nombre aquí abajo 👇
 
 - [@benjavicente](https://github.com/benjavicente)
+- [@lnatero](https://github.com/lnatero)
+- [@diegocostares](https://github.com/diegocostares)

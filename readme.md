@@ -1,6 +1,7 @@
 # OnBoarding 2022-2 🚀
 
 ## Desafios cursed
+
 Tendrán que subirlo en la carpeta `desafio`
 
 **Nombre archivo:** {usuario}-{letra desafío}.{extensión}
@@ -16,6 +17,7 @@ Ej: `"".strip().lsplit().rsplit().replace("A").replace("BBBB")`
 * Desafío E: Hacer un programa que haga mitosis. Es decir, que cada vez que se corra se elimine y a la vez se creen 2 copias.
 * Desafío F: Imprimir algo bonito con Box Drawing characters y Codigos para colores
 
+> **Importante**: las PRs serán automáticamente mergeadas 
 
 ## Participantes
 

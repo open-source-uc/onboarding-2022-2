@@ -1,12 +1,10 @@
-# OnBoarding 2022-2 🚀
+# Onboarding OSUC 2022-2 🚀
 
-## Desafios cursed
+## Desafíos cursed 🧙
 
-Tendrán que subirlo en la carpeta `desafio`
+Debes escribir archivos de Python funcionales que solucionen los desafíos de abajo. Una vez hechos, tendrás que subirlos dentro de la carpeta `desafio`, nombrando tus archivos en el formato `{usuario}-{letra desafío}.{extensión}`.
 
-**Nombre archivo:** {usuario}-{letra desafío}.{extensión}
-
-Ejemplo: diegocostares-A.py
+Por ejemplo: `diegocostares-A.py`
 
 
 * Desafío A: Implementar una función que sume o multiplique dos números de la manera más rebuscada posible
@@ -19,7 +17,7 @@ Ej: `"".strip().lsplit().rsplit().replace("A").replace("BBBB")`
 
 > **Importante**: las PRs serán automáticamente mergeadas 
 
-## Participantes
+## Participantes ✨
 
 Agrega tu usuario de GitHub o nombre aquí abajo 👇
 

@@ -28,4 +28,3 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@fernandosmither](https://github.com/fernandosmither)
 - [@lnatero](https://github.com/lnatero)
 - [@Maratripa](https://github.com/Maratripa)
-

@@ -28,4 +28,5 @@ jobs:
         run: gh pr merge $PR_NUMBER --merge
         env:
           PR_NUMBER: ${{ github.event.number }}
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GH_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

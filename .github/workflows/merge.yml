@@ -24,7 +24,8 @@ jobs:
           git push
 
       - name: Merge PR
+        continue-on-error: true
         run: gh pr merge $PR_NUMBER --merge
         env:
           PR_NUMBER: ${{ github.event.number }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}

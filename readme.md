@@ -25,3 +25,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@agucova](https://github.com/agucova)
 - [@fernandosmither](https://github.com/fernandosmither)
 - [@lnatero](https://github.com/lnatero)
+- [@aLotOfGluten](https://github.com/aLotOfGluten)

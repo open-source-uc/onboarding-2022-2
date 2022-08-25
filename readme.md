@@ -53,3 +53,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@vivimateog](https://github.com/vivimateog)
 - [@isufan](https://github.com/isufan)
 - [@ignaciog14](https://github.com/ignaciog14)
+- [@vicentapd](https://github.com/vicentapd)

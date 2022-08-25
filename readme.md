@@ -38,3 +38,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@catorres8](https://github.com/catorres8)
 - [@Shin-JR](https://github.com/Shin-JR)
 - [@drosselot](https://github.com/drosselot)
+- [@fagiannoni](https://github.com/fagiannoni)

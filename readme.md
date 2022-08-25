@@ -51,3 +51,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@jano_plasma](https://github.com/aplaza2)
 - [@Mamunoz42](https://github.com/Mamunoz42)
 - [@vivimateog](https://github.com/vivimateog)
+- [@isufan](https://github.com/isufan)

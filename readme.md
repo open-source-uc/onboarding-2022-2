@@ -48,3 +48,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@Wh4rp](https://github.com/Wh4rp)
 - [@aLotOfGluten](https://github.com/aLotOfGluten)
 - [@jano_plasma](https://github.com/aplaza2)
+- [@Mamunoz42](https://github.com/Mamunoz42)

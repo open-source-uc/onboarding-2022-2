@@ -45,3 +45,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@MrBased](https://github.com/mrbased)
 - [@fcobelmar](https://github.com/fcobelmar)
 - [@Jpuc1143](https://https://github.com/Jpuc1143)
+- [@Wh4rp](https://github.com/Wh4rp)

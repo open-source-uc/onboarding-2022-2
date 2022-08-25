@@ -55,3 +55,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@ignaciog14](https://github.com/ignaciog14)
 - [@vicentapd](https://github.com/vicentapd)
 - [@joarkaiko](https://github.com/joarkaiko)
+- [@amaiajuanchuto](https://github.com/amaiajuanchuto)

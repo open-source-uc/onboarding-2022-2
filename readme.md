@@ -28,3 +28,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@EnzoMorata](https://github.com/EnzoMorata)
 - [@anibalcontreras](https://github.com/anibalcontreras)
 - [@nicoabarca](https://github.com/nicoabarca)
+- [@ignaciomansuy](https://github.com/ignaciomansuy)

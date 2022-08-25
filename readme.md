@@ -29,3 +29,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@anibalcontreras](https://github.com/anibalcontreras)
 - [@nicoabarca](https://github.com/nicoabarca)
 - [@noamtanaka](https://github.com/noamtanaka)
+- [@ignaciomansuy](https://github.com/ignaciomansuy)

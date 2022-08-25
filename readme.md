@@ -49,3 +49,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@aLotOfGluten](https://github.com/aLotOfGluten)
 - [@jano_plasma](https://github.com/aplaza2)
 - [@Mamunoz42](https://github.com/Mamunoz42)
+- [@vivimateog](https://github.com/vivimateog)

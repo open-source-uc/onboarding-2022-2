@@ -27,3 +27,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@lnatero](https://github.com/lnatero)
 - [@EnzoMorata](https://github.com/EnzoMorata)
 - [@anibalcontreras](https://github.com/anibalcontreras)
+- [@nicoabarca](https://github.com/nicoabarca)

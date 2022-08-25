@@ -44,3 +44,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@nicosantama](https://github.com/nsantama)
 - [@MrBased](https://github.com/mrbased)
 - [@fcobelmar](https://github.com/fcobelmar)
+- [@Jpuc1143](https://https://github.com/Jpuc1143)

@@ -26,6 +26,7 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@fernandosmither](https://github.com/fernandosmither)
 - [@lnatero](https://github.com/lnatero)
 - [@EnzoMorata](https://github.com/EnzoMorata)
+- [@cristobalba](https://github.com/cristobalba)
 - [@anibalcontreras](https://github.com/anibalcontreras)
 - [@nicoabarca](https://github.com/nicoabarca)
 - [@noamtanaka](https://github.com/noamtanaka)

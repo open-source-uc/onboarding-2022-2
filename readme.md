@@ -42,3 +42,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@pipepipepipe](https://github.com/pipepipepipe)
 - [@hananmsa](https://github.com/hananmsa)
 - [@nicosantama](https://github.com/nsantama)
+- [@MrBased](https://github.com/mrbased)

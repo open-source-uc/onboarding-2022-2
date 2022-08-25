@@ -30,5 +30,3 @@ def cursed_sum(a, b):
     if carry == "1":
         result.append("1")
     return int(''.join(result[::-1]), 2)
-
-print(cursed_sum(1001, 2))

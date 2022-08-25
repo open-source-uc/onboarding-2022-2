@@ -1,0 +1,48 @@
+from rich import print
+
+fondo = u'[white]\u2588[/white]'
+amarillo = u'[#FFFF00]\u2588[/#FFFF00]'
+borde = u'[#000000]\u2588[/#000000]'
+cachetes = u'[#FF0000]\u2588[/#FF0000]'
+lengua = u'[#E799A3]\u2588[/#E799A3]'
+
+print(fondo * 43)
+print(fondo + borde * 4 + fondo * 33 + borde * 4 + fondo)
+print(fondo + borde * 7 + fondo * 27 + borde * 7 + fondo)
+print(fondo + borde * 9 + fondo * 23 + borde * 9 + fondo)
+print(fondo + borde * 6 + amarillo * 3 + borde + fondo * 21 + borde + amarillo * 3 + borde * 6 + fondo)
+print(fondo + borde * 6 + amarillo * 4 + borde + fondo * 19 + borde + amarillo * 4 + borde * 6 + fondo)
+print(fondo + borde * 5 + amarillo * 6 + borde + fondo * 17 + borde + amarillo * 6 + borde * 5 + fondo)
+print(fondo * 2 + borde * 4 + amarillo * 7 + borde + fondo * 2 + borde * 11 + fondo * 2 + borde + amarillo * 7 + borde * 4 + fondo * 2)
+print(fondo * 2 + borde * 4 + amarillo * 8 + borde * 2 + amarillo * 11 + borde * 2 + amarillo * 8 + borde * 4 + fondo * 2)
+print(fondo * 3 + borde * 3 + amarillo * 6 + borde * 2 + amarillo * 15 + borde * 2 + amarillo * 6 + borde * 3 + fondo * 3)
+print(fondo * 3 + borde * 3 + amarillo * 31 + borde * 3 + fondo * 3)
+print(fondo * 4 + borde * 2 + amarillo * 31 + borde * 2 + fondo * 4)
+print(fondo * 5 + borde + amarillo * 2 + borde + amarillo * 25 + borde + amarillo * 2 + borde + fondo * 5)
+print(fondo * 6 + borde * 3 + amarillo * 25 + borde * 3 + fondo * 6)
+print(fondo * 7 + borde + amarillo * 27 + borde + fondo * 7)
+print(fondo * 7 + borde + amarillo * 27 + borde + fondo * 7)
+print(fondo * 6 + borde + amarillo * 29 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 29 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 4 + borde * 5 + amarillo * 11 + borde * 5 + amarillo * 4 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 3 + borde * 4 + fondo + borde * 2 + amarillo * 9 + borde * 2 + fondo + borde * 4 + amarillo * 3 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 2 + borde * 4 + fondo * 3 + borde + amarillo * 9 + borde + fondo * 3 + borde * 4 + amarillo * 2 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 2 + borde * 5 + fondo * 2 + borde + amarillo * 9 + borde + fondo * 2 + borde * 5 + amarillo * 2 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 2 + borde * 8 + amarillo * 9 + borde * 8 + amarillo * 2 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 2 + borde * 8 + amarillo * 9 + borde * 8 + amarillo * 2 + borde + fondo * 6)
+print(fondo * 6 + borde + amarillo * 3 + borde * 6 + amarillo * 4 + borde * 3 + amarillo * 4 + borde * 6 + amarillo * 3 + borde + fondo * 6)
+print(fondo * 5 + borde + amarillo * 15 + borde + amarillo * 15 + borde + fondo * 5)
+print(fondo * 5 + borde + amarillo + borde * 5 + amarillo * 19 + borde * 5 + amarillo + borde + fondo * 5)
+print(fondo * 5 + borde * 2 + cachetes * 5 + borde + amarillo * 3 + borde + amarillo * 4 + borde + amarillo * 4 + borde + amarillo * 3 + borde + cachetes * 5 + borde * 2 + fondo * 5)
+print(fondo * 5 + borde + cachetes * 7 + borde + amarillo * 3 + borde * 4 + lengua + borde * 4 + amarillo * 3 + borde + cachetes * 7 + borde + fondo * 5)
+print(fondo * 5 + borde + cachetes * 7 + borde + amarillo * 4 + borde + lengua * 5 + borde + amarillo * 4 + borde + cachetes * 7 + borde + fondo * 5)
+print(fondo * 5 + borde + cachetes * 7 + borde + amarillo * 4 + borde + lengua * 5 + borde + amarillo * 4 + borde + cachetes * 7 + borde + fondo * 5)
+print(fondo * 5 + borde + cachetes * 6 + borde + amarillo * 5 + borde + lengua * 5 + borde + amarillo * 5 + borde + cachetes * 6 + borde + fondo * 5)
+print(fondo * 6 + borde + cachetes * 5 + borde + amarillo * 5 + borde + lengua * 5 + borde + amarillo * 5 + borde + cachetes * 5 + borde + fondo * 6)
+print(fondo * 7 + borde * 5 + amarillo * 7 + borde + lengua * 3 + borde + amarillo * 7 + borde * 5 + fondo * 7)
+print(fondo * 8 + borde + amarillo * 11 + borde + lengua + borde + amarillo * 11 + borde + fondo * 8)
+print(fondo * 9 + borde * 2 + amarillo * 10 + borde + amarillo * 10 + borde * 2 + fondo * 9)
+print(fondo * 11 + borde * 2 + amarillo * 17 + borde * 2 + fondo * 11)
+print(fondo * 13 + borde * 3 + amarillo * 11 + borde * 3 + fondo * 13)
+print(fondo * 16 + borde * 11 + fondo * 16)
+print(fondo * 43)

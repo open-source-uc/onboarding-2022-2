@@ -54,3 +54,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@isufan](https://github.com/isufan)
 - [@ignaciog14](https://github.com/ignaciog14)
 - [@vicentapd](https://github.com/vicentapd)
+- [@joarkaiko](https://github.com/joarkaiko)

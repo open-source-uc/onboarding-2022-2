@@ -34,3 +34,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@matias-berrios-o](https://github.com/matias-berrios-o)
 - [@jorgedg6](https://github.com/jorgedg6)
 - [@roahoki](https://github.com/roahoki)
+- [@Pakarati](https://github.com/Pakarati)

@@ -47,3 +47,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@Jpuc1143](https://https://github.com/Jpuc1143)
 - [@Wh4rp](https://github.com/Wh4rp)
 - [@aLotOfGluten](https://github.com/aLotOfGluten)
+- [@jano_plasma](https://github.com/aplaza2)

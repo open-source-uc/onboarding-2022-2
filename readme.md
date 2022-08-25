@@ -41,3 +41,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@fagiannoni](https://github.com/fagiannoni)
 - [@pipepipepipe](https://github.com/pipepipepipe)
 - [@hananmsa](https://github.com/hananmsa)
+- [@nicosantama](https://github.com/nsantama)

@@ -37,3 +37,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@Pakarati](https://github.com/Pakarati)
 - [@catorres8](https://github.com/catorres8)
 - [@Shin-JR](https://github.com/Shin-JR)
+- [@drosselot](https://github.com/drosselot)

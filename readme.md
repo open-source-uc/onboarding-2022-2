@@ -35,3 +35,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@jorgedg6](https://github.com/jorgedg6)
 - [@roahoki](https://github.com/roahoki)
 - [@Pakarati](https://github.com/Pakarati)
+- [@catorres8](https://github.com/catorres8)

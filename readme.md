@@ -56,3 +56,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@vicentapd](https://github.com/vicentapd)
 - [@joarkaiko](https://github.com/joarkaiko)
 - [@amaiajuanchuto](https://github.com/amaiajuanchuto)
+- [@stephenwpugh](https://github.com/stephenwpugh)

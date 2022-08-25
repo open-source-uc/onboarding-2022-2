@@ -36,3 +36,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@roahoki](https://github.com/roahoki)
 - [@Pakarati](https://github.com/Pakarati)
 - [@catorres8](https://github.com/catorres8)
+- [@Shin-JR](https://github.com/Shin-JR)

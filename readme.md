@@ -21,6 +21,7 @@ Ej: `"".strip().lsplit().rsplit().replace("A").replace("BBBB")`
 
 Agrega tu usuario de GitHub o nombre aquí abajo 👇
 
+- [@matias-berrios-o](https://github.com/matias-berrios-o)
 - [@benjavicente](https://github.com/benjavicente)
 - [@agucova](https://github.com/agucova)
 - [@fernandosmither](https://github.com/fernandosmither)

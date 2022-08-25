@@ -33,3 +33,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@ignaciomansuy](https://github.com/ignaciomansuy)
 - [@matias-berrios-o](https://github.com/matias-berrios-o)
 - [@jorgedg6](https://github.com/jorgedg6)
+- [@roahoki](https://github.com/roahoki)

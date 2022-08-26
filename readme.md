@@ -60,3 +60,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@Maratripa](https://github.com/Maratripa)
 - [@IgnacioPalma](https://github.com/IgnacioPalma)
 - [@jean-Philipe](https://github.com/jean-Philipe)
+- [@valedt](https://github.com/valedt)

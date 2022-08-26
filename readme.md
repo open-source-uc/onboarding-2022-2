@@ -58,3 +58,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@amaiajuanchuto](https://github.com/amaiajuanchuto)
 - [@stephenwpugh](https://github.com/stephenwpugh)
 - [@Maratripa](https://github.com/Maratripa)
+- [@jean-Philipe](https://github.com/jean-Philipe)

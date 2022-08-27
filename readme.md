@@ -65,3 +65,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@weibac](https://github.com/weibac)
 - [@MarcosSantelices](https://github.com/MarcosSantelices)
 - [@eanorambuena](https://github.com/eanorambuena)
+- [@rir001](https://github.com/rir001)

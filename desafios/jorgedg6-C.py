@@ -24,7 +24,7 @@ print(chr(base + 3) + chr(base + 42) + chr(base + 39)\
 														 + chr(base + 36) + chr(base + 39) + chr(base + 39)\
 															 + chr(base + 28) + chr(base + 46) + chr(base - 36))
 for i in range(15):
-	#sleep(0.5)
+	sleep(0.5)
 	print(chr(base - 37))
 	if i == 3:
 		print(chr(base - 3) + chr(base + 48) + chr(base + 32)\

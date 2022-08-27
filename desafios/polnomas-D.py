@@ -1,4 +1,4 @@
-texto = open("cadaeic_cadenza.txt",'r')
+texto = open("polnomas-D.txt",'r')
 cc = [] #Lista de listas de palabras por linea
 #Limpieza
 for linea in texto.readlines():

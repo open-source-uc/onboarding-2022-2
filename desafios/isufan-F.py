@@ -4,7 +4,6 @@ cielo = u'[blue]\u2588[/blue]'
 blanco = u'\u2588'
 naranjo = u'[#E1680F]\u2588[/#E1680F]'
 negro = u'[black]\u2589[/black]'
-punta = u'\u25B2'
 
 print('Dibujo no muy producido del cohete Artemis, a propósito del lanzamiento del lunes. Igual se parece un poquito...')
 print(cielo*60)

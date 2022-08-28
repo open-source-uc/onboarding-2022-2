@@ -69,3 +69,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@eanorambuena](https://github.com/eanorambuena)
 - [@rir001](https://github.com/rir001)
 - [@MQ-Mannick](https://github.com/MQ-Mannick)
+- [@juan-palma-1](https://github.com/juan-palma-1)

@@ -24,6 +24,7 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@agucova](https://github.com/agucova)
 - [@fernandosmither](https://github.com/fernandosmither)
 - [@lnatero](https://github.com/lnatero)
+- [@ODASAC](https://github.com/0DASAC)
 - [@polnomas](https://github.com/polnomas)
 - [@conyortizsimpson](https://github.com/conyortizsimpson)
 - [@EnzoMorata](https://github.com/EnzoMorata)

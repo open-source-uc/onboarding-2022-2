@@ -1,0 +1,2 @@
+nada = '777 666 555'.center(10).rstrip().lstrip().strip().lower().upper().capitalize().casefold().split()[::-1].copy()[0].__str__().encode().hex().__sizeof__().to_bytes(4, 'little').decode() #'...'
+print(nada)

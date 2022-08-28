@@ -66,3 +66,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@MarcosSantelices](https://github.com/MarcosSantelices)
 - [@eanorambuena](https://github.com/eanorambuena)
 - [@rir001](https://github.com/rir001)
+- [@MQ-Mannick](https://github.com/MQ-Mannick)

@@ -1,3 +1,8 @@
+
+> **Warning**
+> Muchas de las respuestas a los desafíos son inestables o potencialmente peligrosas.
+> No recomendamos correrlas directamente en tu computador al menos que sea en una máquina virtual en un [computador al vacío](https://en.wikipedia.org/wiki/Air_gap_%28networking%29), lejos de cualquier clase de explosivo y a 100 metros de distancia de cualquier persona humana 🧐
+
 # Onboarding OSUC 2022-2 🚀
 
 ## Desafíos cursed 🧙

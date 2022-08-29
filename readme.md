@@ -71,3 +71,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@MQ-Mannick](https://github.com/MQ-Mannick)
 - [@lonxo21](https://github.com/lonxo21)
 - [@juan-palma-1](https://github.com/juan-palma-1)
+- [@J0SEF4](https://github.com/J0SEF4)

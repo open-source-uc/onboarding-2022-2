@@ -81,3 +81,4 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@Gtruaan](https://github.com/Gtruaan)
 - [@vcrb18](https://github.com/vcrb18)
 - [@marcosfernandezr](https://github.com/marcosfernandezr)
+- [@peakyblinder47](https://github.com/peakyblinder47)
